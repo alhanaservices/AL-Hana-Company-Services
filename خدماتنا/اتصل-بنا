@@ -1,0 +1,31 @@
+اتصل بنا
+مرحبًا بكم في شركة الهنا لخدمات تنظيف وتعقيم الخزانات. نحن هنا لمساعدتكم والإجابة على جميع استفساراتكم.
+
+    <div class="contact-info">
+        <h2>معلومات الاتصال</h2>
+        <ul>
+            <li><strong>الهاتف:</strong> 123-456-7890</li>
+            <li><strong>البريد الإلكتروني:</strong> info@alhana-services.com</li>
+            <li><strong>العنوان:</strong> شارع الخدمة المتميزة، المدينة الصناعية، الإمارات العربية المتحدة</li>
+        </ul>
+        <script>
+            console.log("Contact information section loaded.");
+            console.log("Phone: 123-456-7890");
+            console.log("Email: info@alhana-services.com");
+            console.log("Address: شارع الخدمة المتميزة، المدينة الصناعية، الإمارات العربية المتحدة");
+        </script>
+    </div>
+
+    <div class="map">
+        <h2>موقعنا</h2>
+        
+
+				
+			
+
+        <script>
+            console.log("Map iframe loaded with the following source URL:");
+            console.log("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.037613156664!2d55.43910902639511!3d25.40355152331502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f59d785a4fa63%3A0xfca96b0f7a159a09!2zQWwgSGFuYSBXYXRlciBEZXN0cmlidXRpb24g2YXZitin2Ycg2KfZhNmH2YbYp9ih!5e0!3m2!1sar!2sae!4v1737603301601!5m2!1sar!2sae");
+        </script>
+    </div>
+</div>
